@@ -19,6 +19,13 @@ Application Versatility: This project finds applications across various domains 
 * Pre-trained Models (e.g., InceptionV3)
 * Image Processing Techniques
 
+## Accuracy
+
+The model achieved an accuracy of 95% on the test dataset. However, it's important to note that the model's performance may vary based on the size and diversity of the dataset and the complexity of the images. 
+
+Due to resource constraints and limited label availability, the scope of the model is relatively small. For example, it can accurately detect common objects such as a coffee mug, but it may struggle with more complex tasks such as facial recognition. In some cases, it may misclassify objects, such as identifying a face as a seat belt (see [example image](link_to_image)).
+
+
 ## Project Demonstration
 To see the system in action in your local machine, clone the repository and run the provided scripts. Ensure that the necessary dependencies are installed, including Python, TensorFlow, and OpenCV. Once set up, launch the application to experience real-time object detection and recognition capabilities.
 
