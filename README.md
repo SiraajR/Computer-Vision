@@ -23,8 +23,13 @@ Application Versatility: This project finds applications across various domains 
 
 The model achieved an accuracy of 95% on the test dataset. However, it's important to note that the model's performance may vary based on the size and diversity of the dataset and the complexity of the images. 
 
-Due to resource constraints and limited label availability, the scope of the model is relatively small. For example, it can accurately detect common objects such as a coffee mug, but it may struggle with more complex tasks such as facial recognition. In some cases, it may misclassify objects, such as identifying a face as a seat belt (see [example image](link_to_image)).
+Due to resource constraints and limited label availability, the scope of the model is relatively small. For example, it can accurately detect common objects such as my coffee mug,
 
+![Screenshot 2024-02-26 at 10 41 51 PM (2)](https://github.com/SiraajR/Computer-Vision/assets/116124031/0b90049e-f3db-454e-ad1a-31e0562a806f)
+
+but it may struggle with more complex tasks such as facial recognition. In some cases, it may misclassify objects, such as identifying my face as a seat belt.
+
+![Screenshot 2024-02-26 at 10 49 23 PM (2)](https://github.com/SiraajR/Computer-Vision/assets/116124031/ac8afeab-f242-4776-988c-633e4b11b416)
 
 ## Project Demonstration
 To see the system in action in your local machine, clone the repository and run the provided scripts. Ensure that the necessary dependencies are installed, including Python, TensorFlow, and OpenCV. Once set up, launch the application to experience real-time object detection and recognition capabilities.
